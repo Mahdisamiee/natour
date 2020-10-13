@@ -4,11 +4,9 @@
   "description": "a landing page for natour",
   "main": "index.js",
   "scripts": {
-    "compile:scss" : "node-sass sass/main.scss css/style.css -w"
+    "compile:scss": "node-sass sass/main.scss css/style.css -w"
   },
   "author": "m23",
   "license": "ISC",
-  "devDependencies": {
-    "node-sass": "^4.14.1"
-  }
+  "devDependencies": {}
 }
